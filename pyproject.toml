@@ -3,7 +3,7 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "persian-integration"
+name = "persian_integration"
 version = "0.0.1"
 description = "Adds better persian support for frappe framework"
 authors = [{name = "devixa-tech", email = "hmohammad2520@gmail.com"}]
