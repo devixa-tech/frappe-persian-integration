@@ -11,8 +11,8 @@ fixtures = [
 ]
 
 app_include_css = [
-    "/assets/jalali_shamsi_datepicker/css/vazirmatn-font.css",
+    "/assets/persian_integration/css/vazirmatn-font.css",
 ]
 app_include_js = [
-    # "/assets/jalali_shamsi_datepicker/js/persian-date-handler.js",
+    # "/assets/persian_integration/js/persian-date-handler.js",
 ]
