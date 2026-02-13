@@ -1,4 +1,4 @@
-// jalali_shamsi_datepicker/public/js/persian-date-handler.js
+// persian_integration/public/js/persian-date-handler.js
 frappe.provide("frappe.ui.form");
 
 (function() {
