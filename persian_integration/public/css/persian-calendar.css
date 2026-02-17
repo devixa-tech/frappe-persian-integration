@@ -1,0 +1,38 @@
+/*.grid-row .data-row div[data-fieldtype='Date'] .form-group.frappe-control{
+    display: inline-flex;
+}
+.grid-body .data-row:not(.editable-row) .grid-static-col[data-fieldtype='Date']{
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}*/
+.persian_datepicker_multi{
+	position: relative;
+}
+.isd_switch_btn.range_icon{
+    right: -15px;
+}
+.isd_switch_btn{
+	position: absolute;
+    right: 4px;
+    top: 0px;
+    cursor: pointer;
+    z-index: 3;
+}
+.isd_switch_btn::before{
+	font: normal normal normal 14px / 1 FontAwesome;
+    content: "\f079";
+    display: inline-block;
+    padding-right: 3px;
+    vertical-align: middle;
+    font-weight: 900;
+}
+.persian_date-conversion{
+    font-size: 14px;
+}
+.mds-bootstrap-persian-datetime-picker-container table table{
+    margin-top: 0px;
+}
+/*.datatable .dt-row .dt-cell .dt-cell__content > br{
+    content: "\00a0";
+    padding-right: 5px;
+}*/
