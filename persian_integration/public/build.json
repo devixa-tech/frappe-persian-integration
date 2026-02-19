@@ -1,0 +1,12 @@
+{
+  "persian_integration.bundle.js": [
+    "public/js/persian-datepicker-outsource.js"
+  ],
+  "persian_integration.bundle.css": [
+    "public/css/jquery-ui.min.css",
+    "public/css/md-persian-datepicker-custom.css",
+    "public/css/md-persian-datepicker.css",
+    "public/css/persian-integration.css",
+    "public/css/vazirmatn.css"
+  ]
+}

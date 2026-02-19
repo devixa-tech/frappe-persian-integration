@@ -13,12 +13,8 @@ fixtures = [
 ]
 
 app_include_css = [
-    "/assets/persian_integration/css/jquery-bootstrap-datetimepicker.css",
-    "/assets/persian_integration/css/jquery-ui.min.css",
-    "/assets/persian_integration/css/persian-calendar.css",
-    "/assets/persian_integration/css/vazirmatn-font.css",
+    "persian_integration.bundle.css"
 ]
 app_include_js = [
-    "/assets/persian_integration/js/persian-calendar.js",
-    # "/assets/persian_integration/js/persian-date-handler.js",
+    "persian_integration.bundle.js",
 ]

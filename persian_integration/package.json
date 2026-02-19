@@ -1,0 +1,10 @@
+{
+  "name": "persian_integration",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.30.1",
+    "moment-jalaali": "^0.10.0",
+    "md.bootstrappersiandatetimepicker": "^4.0.6"
+  }
+}
