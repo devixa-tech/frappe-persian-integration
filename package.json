@@ -1,6 +1,7 @@
 {
   "name": "persian_integration",
   "version": "0.1.0",
+  "description": "Tools and upgrades for Persian integration",
   "private": true,
   "dependencies": {
     "moment": "^2.30.1",
