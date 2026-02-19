@@ -1,6 +1,3 @@
-/* Using CDN for Vazirmatn - Most reliable method */
-@import url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/misc/UI-Farsi-Digits/Vazirmatn-UI-FD-font-face.css');
-
 /* Apply Vazirmatn to Persian language */
 [lang="fa"] {
     font-family: 'Vazirmatn UI FD', 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif !important;
@@ -10,20 +7,6 @@
 /* Force font on all elements when language is Persian */
 html[lang="fa"] body,
 html[lang="fa"] body * {
-    font-family: 'Vazirmatn UI FD', 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif !important;
-}
-
-/* Specific element targeting */
-[lang="fa"] .form-control,
-[lang="fa"] input,
-[lang="fa"] textarea,
-[lang="fa"] select,
-[lang="fa"] .btn,
-[lang="fa"] .modal-title,
-[lang="fa"] .sidebar-item-label,
-[lang="fa"] .menu-item-label,
-[lang="fa"] .control-label,
-[lang="fa"] .control-value {
     font-family: 'Vazirmatn UI FD', 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif !important;
 }
 
