@@ -14,7 +14,7 @@ jalaali-js@^1.2.7:
 
 md.bootstrappersiandatetimepicker@^4.0.6:
   version "4.5.0"
-  resolved "https://registry.yarnpkg.com/md.bootstrappersiandatetimepicker/-/md.bootstrappersiandatetimepicker-4.5.0.tgz#9e4667a9aa0b639eea5f3d04e97df090317>
+  resolved "https://registry.yarnpkg.com/md.bootstrappersiandatetimepicker/-/md.bootstrappersiandatetimepicker-4.5.0.tgz#9e4667a9aa0b639eea5f3d04e97df090317a                                                                                                                                                                809a"
   integrity sha512-K5eef+mBg+qp2hjY/j69CnceQxKXnlxq3YhUpstKlcgd+yMpnFW4u6tVpB6xG7/Mcmx1jngxfMZ2/lkvj7FHog==
   dependencies:
     bootstrap "^5.3.8"
@@ -39,4 +39,3 @@ moment@^2.29.4, moment@^2.30.1:
   version "2.30.1"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.30.1.tgz#f8c91c07b7a786e30c59926df530b4eac96974ae"
   integrity sha512-uEmtNhbDOrWPFS+hdjFCBfy9f2YoyzRpwcl+DqpC6taX21FzsTLQVbMV/W7PzNSX6x/bhC1zA3c2UQ5NzH6how==
-
