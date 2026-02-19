@@ -1,6 +1,6 @@
 app_name = "persian_integration"
 app_title = "Persian Integration"
-app_icon = "octicon octicon-calendar-import"
+app_icon = "octicon octicon-repo-push"
 app_color = "blue"
 app_publisher = "devixa-tech"
 app_description = "Adds better persian support for frappe framework"
