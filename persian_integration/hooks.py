@@ -12,5 +12,9 @@ fixtures = [
     {"doctype": "Custom Field", "filters": {"module": "Persian Integration"}}
 ]
 
-app_include_css = "persian_integration.bundle.css"
-app_include_js = "persian_integration.bundle.js"
+app_include_css = [
+    "persian-integration.bundle.css",
+]
+app_include_js = [
+    "persian-integration.bundle.js",
+]

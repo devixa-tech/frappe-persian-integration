@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@fontsource/vazirmatn@^5.2.8":
+  version "5.2.8"
+  resolved "https://registry.yarnpkg.com/@fontsource/vazirmatn/-/vazirmatn-5.2.8.tgz#d395edb33571bb15880e92390419ca91d99cb9e2"
+  integrity sha512-WoDgv8R/y1gwgTS8Q2uL8d2ayeSGNv2IrYQ4wHmJkVwYPb8KVODrqbbvEjBqLOo5WP5kLJIrO06FRDMnSFuCaA==
+
 bootstrap@^5.3.8:
   version "5.3.8"
   resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-5.3.8.tgz#6401a10057a22752d21f4e19055508980656aeed"
