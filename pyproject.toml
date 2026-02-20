@@ -9,3 +9,6 @@ description = "Adds better persian support for frappe framework"
 authors = [{name = "devixa-tech", email = "hmohammad2520@gmail.com"}]
 license = {text = "MIT"}
 dependencies = []
+
+[tool.setuptools.packages.find]
+exclude = ["node_modules"]
