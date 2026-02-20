@@ -13,6 +13,7 @@ fixtures = [
 ]
 
 app_include_css = [
+    "/assets/persian_integration/css/jquery-ui.min.css",
     "persian-integration.bundle.css",
 ]
 app_include_js = [
